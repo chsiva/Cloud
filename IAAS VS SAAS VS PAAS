@@ -11,3 +11,22 @@ PaaS simplifies the setup and management of both hardware and software.
 PaaS is less flexible than IaaS, and typically caters to a narrow set of approaches to application development or deployment. 
 They are not general-purpose replacements for an organization's entire IT infrastructure and software development workflow.
 
+AWS IAAS Service -  EC2, Amazon S3, Amazon Elastic Block Store, Amazon Elastic File System
+AWS PAAS Services - 
+AWS Cloud9: This cloud-based integrated development environment is used to develop applications.
+AWS CodePipeline: Developers can use this tool to build and deploy applications. It supports deployment to a variety of AWS hosting options, such as EC2 virtual machines, or containers on Amazon Elastic Container Service.
+AWS CodeDeploy: This deployment service enables enterprises to automate deployments to various AWS compute services.
+AWS Elastic Beanstalk: Developers use this tool to upload code for web apps and service. AWS handles the deployment, provisioning and load balancing.
+
+Microsoft IaaS offerings
+VMs
+Azure Disc Storage
+Azure File Storage
+Azure Blob Storage
+Azure Queue Storage
+
+Microsoft PaaS offerings
+Azure App Service
+Azure Web Apps
+Azure Web Apps for Containers
+Azure API Apps
