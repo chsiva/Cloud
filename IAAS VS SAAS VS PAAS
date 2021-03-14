@@ -1,0 +1,13 @@
+IaaS vs. PaaS, defined
+
+Typically, "IaaS" provides access only to core infrastructure components -- compute, networking and storage. 
+Users install and manage the software they want to run on their cloud-based infrastructure."
+Cloud providers (AWS/GCP/Azure) maintain and monitor the physical infrastructure to deliver IaaS, 
+but it is the users' responsibility to secure and monitor the workloads that run on that platform. 
+Thus, the primary value of IaaS is that it eliminates the need for users to purchase, set up and maintain physical servers.
+
+Platform as a service (PaaS) provides infrastructure to host applications, as well as software tools to help customers develop and deploy those applications. 
+PaaS simplifies the setup and management of both hardware and software.
+PaaS is less flexible than IaaS, and typically caters to a narrow set of approaches to application development or deployment. 
+They are not general-purpose replacements for an organization's entire IT infrastructure and software development workflow.
+
