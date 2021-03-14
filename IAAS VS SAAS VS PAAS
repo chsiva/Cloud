@@ -30,3 +30,16 @@ Azure App Service
 Azure Web Apps
 Azure Web Apps for Containers
 Azure API Apps
+
+# GCP IaaS offerings
+Compute Engine
+Google Cloud Storage
+Google Cloud Filestore
+Google Persistent Disk
+
+# GCP PaaS offerings
+APP Engine
+A standard environment for sandbox deployments, certain specific source codes, low-cost apps and rapid, spikey scaling demands.
+A flexible environment for containerized apps run on Compute Engine or apps that rely on the Compute Engine network, apps with steady traffic, custom runtimes and apps that rely on frameworks with native code.
+
+
