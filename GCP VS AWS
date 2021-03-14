@@ -2,4 +2,49 @@ GCP has "better documentation" and "cheaper" in terms of VMs and storage
 on the other hand AWS has offers a lot more features, configuration options and products than GCP does, 
 and you may benefit from some of them. Also AWS releases products at a much faster speed
 
-In GCP VPC are global like s3 in AWS
+1. In GCP VPC are global like s3 in AWS
+2. In Google cloud services, data transmission is a fully encrypted format on the other hand, in AWS, data transmission is in the general format.
+3. Pricing	Per hour basis	in AWS & in GCP it is Per-minute basis
+4. Containers	AWS(Docker, Kubernetes) & GCP(	Kubernetes Only)
+
+#Why AWS?
+Here are the important pros/benefits of selecting AWS web services:
+
+Amazon Web Services (AWS) offers easy deployment process for an app
+You should opt for AWS when you have DevOps teams who can configure and manage the infrastructure
+You have very little time to spend on the deployment of a new version of your web or mobile app.
+AWS web service is an ideal option when your project needs high computing power
+Helps you to improve the productivity of the application development team
+A range of automated functionalities including the configuration, scaling, setup, and others
+It is a cost-effective service that allows you to pay only for what you use, without any up-front or long-term commitments.
+AWS allows organizations to use the already familiar programming models, operating systems, databases, and architectures.
+You are allowed cloud access quickly with limitless capacity.
+
+#why GCP?
+Offers higher productivity gained through Quick Access to innovation
+Employees can work from Anywhere
+Future-Proof infrastructure
+It provides a serverless environment which allows you to connect cloud services with a large focus mainly on the microservices architecture.
+Offers Powerful Data Analytics
+Cost-efficiency due to long-term discounts
+Big Data and Machine Learning products
+Offers Instance and payment configuration
+
+#Features of AWS
+Important features of Amazon Web Services (AWS) are:
+
+Total Cost of Ownership is very low compared to any private/dedicated servers.
+Offers Centralized Billing and management
+Offers Hybrid Capabilities
+Allows you to deploy your application in multiple regions around the world with just a few clicks
+
+#Features of Google Cloud
+Important features of Google Cloud are:
+
+Constantly including more Language & OS.
+A better UI helps you to improves user experience.
+Offers an on-demand self-service
+Broad network access
+Resource pooling and Rapid elasticity
+
+
