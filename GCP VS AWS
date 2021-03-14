@@ -1,0 +1,5 @@
+GCP has "better documentation" and "cheaper" in terms of VMs and storage
+on the other hand AWS has offers a lot more features, configuration options and products than GCP does, 
+and you may benefit from some of them. Also AWS releases products at a much faster speed
+
+In GCP VPC are global like s3 in AWS
